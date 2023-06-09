@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\ZQF\Desktop\GAMES101\GAMES101_Homework5_S2021\Homework5\Assignment5\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ZQF\Desktop\GAMES101\GAMES101_Homework5_S2021\Homework5\Assignment5\Scene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ZQF\Desktop\GAMES101\GAMES101_Homework5_S2021\Homework5\Assignment5\Renderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\ZQF\Desktop\GAMES101\GAMES101_Homework5_S2021\Homework5\Assignment5\Object.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ZQF\Desktop\GAMES101\GAMES101_Homework5_S2021\Homework5\Assignment5\Vector.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ZQF\Desktop\GAMES101\GAMES101_Homework5_S2021\Homework5\Assignment5\Sphere.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ZQF\Desktop\GAMES101\GAMES101_Homework5_S2021\Homework5\Assignment5\global.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ZQF\Desktop\GAMES101\GAMES101_Homework5_S2021\Homework5\Assignment5\Triangle.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ZQF\Desktop\GAMES101\GAMES101_Homework5_S2021\Homework5\Assignment5\Scene.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ZQF\Desktop\GAMES101\GAMES101_Homework5_S2021\Homework5\Assignment5\Light.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ZQF\Desktop\GAMES101\GAMES101_Homework5_S2021\Homework5\Assignment5\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{31221F47-7246-3757-B654-1A3C2033816E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{ECBDB098-A41A-3084-8731-597FCB5171F2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

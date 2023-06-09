@@ -1,0 +1,24 @@
+# CMake generation dependency list for this directory.
+C:/Users/ZQF/Desktop/GAMES101/GAMES101_Homework5_S2021/Homework5/Assignment5/CMakeFiles/3.25.1/CMakeCCompiler.cmake
+C:/Users/ZQF/Desktop/GAMES101/GAMES101_Homework5_S2021/Homework5/Assignment5/CMakeFiles/3.25.1/CMakeCXXCompiler.cmake
+C:/Users/ZQF/Desktop/GAMES101/GAMES101_Homework5_S2021/Homework5/Assignment5/CMakeFiles/3.25.1/CMakeRCCompiler.cmake
+C:/Users/ZQF/Desktop/GAMES101/GAMES101_Homework5_S2021/Homework5/Assignment5/CMakeFiles/3.25.1/CMakeSystem.cmake
+C:/Users/ZQF/Desktop/GAMES101/GAMES101_Homework5_S2021/Homework5/Assignment5/CMakeLists.txt
+C:/Users/ZQF/share/cmake-3.25/Modules/CMakeCInformation.cmake
+C:/Users/ZQF/share/cmake-3.25/Modules/CMakeCXXInformation.cmake
+C:/Users/ZQF/share/cmake-3.25/Modules/CMakeCommonLanguageInclude.cmake
+C:/Users/ZQF/share/cmake-3.25/Modules/CMakeGenericSystem.cmake
+C:/Users/ZQF/share/cmake-3.25/Modules/CMakeInitializeConfigs.cmake
+C:/Users/ZQF/share/cmake-3.25/Modules/CMakeLanguageInformation.cmake
+C:/Users/ZQF/share/cmake-3.25/Modules/CMakeRCInformation.cmake
+C:/Users/ZQF/share/cmake-3.25/Modules/CMakeSystemSpecificInformation.cmake
+C:/Users/ZQF/share/cmake-3.25/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Users/ZQF/share/cmake-3.25/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Users/ZQF/share/cmake-3.25/Modules/Compiler/MSVC-C.cmake
+C:/Users/ZQF/share/cmake-3.25/Modules/Compiler/MSVC-CXX.cmake
+C:/Users/ZQF/share/cmake-3.25/Modules/Compiler/MSVC.cmake
+C:/Users/ZQF/share/cmake-3.25/Modules/Platform/Windows-MSVC-C.cmake
+C:/Users/ZQF/share/cmake-3.25/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Users/ZQF/share/cmake-3.25/Modules/Platform/Windows-MSVC.cmake
+C:/Users/ZQF/share/cmake-3.25/Modules/Platform/Windows.cmake
+C:/Users/ZQF/share/cmake-3.25/Modules/Platform/WindowsPaths.cmake
